@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 from datetime import datetime
 
-df = pd.read_csv('data/world_population.csv')
+df = pd.read_csv('streamlit_app/data/world_population.csv')
 
 st.title("World Population Dashboard")
 

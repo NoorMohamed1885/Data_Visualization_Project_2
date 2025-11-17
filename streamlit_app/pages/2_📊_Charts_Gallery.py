@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.graph_objects as go
 import plotly.express as px
 
-df = pd.read_csv('data/world_population.csv')
+df = pd.read_csv('streamlit_app/data/world_population.csv')
 df['Growth Rate'] = round((df['Growth Rate'] - 1) * 100, 2)
 
 st.title("World Population Analysis")

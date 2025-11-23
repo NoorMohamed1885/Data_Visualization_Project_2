@@ -14,6 +14,7 @@ st.markdown(
     - 📊 Charts Gallery: My dataset analysis gallery.
     - 📈 Dashboard: My dataset dashboard.
     - 🧭 Future Work: My future work.
+    - 👥 Graph Visualization: Friendship network in a college class.
     """
 )
 

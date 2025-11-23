@@ -4,3 +4,4 @@ plotly>=5.22
 altair
 numpy
 networkx
+matplotlib
